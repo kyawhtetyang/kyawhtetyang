@@ -1,4 +1,4 @@
-# Trying to solve problems by continuous learning and building.
+# Solving problems through continuous learning.
 
 I am an AI/ML and Data Engineering enthusiast. I specialize in Deep Learning (BiLSTM, CNNs), Transformers, RAG systems, and building optimized full-stack data pipelines.
 
