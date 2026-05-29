@@ -2,8 +2,6 @@
 
 I am an AI/ML and Data Engineering enthusiast. I specialize in Deep Learning (BiLSTM, CNNs), Transformers, RAG systems, and building optimized full-stack data pipelines.
 
-### 🛠️ Tech Stack & Capabilities
-
 #### 🤖 Artificial Intelligence & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
