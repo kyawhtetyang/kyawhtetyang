@@ -1,4 +1,4 @@
-# Hi there, I'm Kyaw Htet 👋
+# Trying to solve problems by continuous learning and building.
 
 I am an AI/ML and Data Engineering enthusiast. I specialize in Deep Learning (BiLSTM, CNNs), Transformers, RAG systems, and building optimized full-stack data pipelines.
 
