@@ -7,7 +7,7 @@ I am an AI/ML and Data Engineering enthusiast. I specialize in Deep Learning (Bi
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-### ⚙️ Backend & Data Engineering
+#### ⚙️ Backend & Data Engineering
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E25A5F?style=flat-square&logo=pydantic&logoColor=white)
