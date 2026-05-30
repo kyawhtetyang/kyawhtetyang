@@ -1,6 +1,6 @@
 ## Solving problems through continuous learning.
 
-I am an AI/ML and Data Engineering enthusiast. I specialize in Deep Learning (BiLSTM, CNNs), Transformers, RAG systems, and building optimized full-stack data pipelines.
+I am an AI-focused Python developer. I specialize in Deep Learning (BiLSTM, CNNs), Transformers, RAG systems, and building AI-powered backend applications and data pipelines.
 
 #### 🤖 Artificial Intelligence & Machine Learning
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
